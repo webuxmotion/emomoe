@@ -66,4 +66,6 @@ ul {
   justify-content: center;
   height: 100vh;
   font-size: 8vw;
+  font-weight: bold;
+  font-style: italic;
 }
